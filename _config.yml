@@ -12,11 +12,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://ianmellis.github.io/
-baseurl: /sustain/
+# baseurl: /sustain/
 title: Ian Mellis
 author: Ian Mellis
 description: Personal blog and resume
-avatar: profile.png
+avatar: iamellis_photo_narrow.png
 email: ian.mellis@gmail.com
 github: ianmellis # username
 twitter: ian_mellis
