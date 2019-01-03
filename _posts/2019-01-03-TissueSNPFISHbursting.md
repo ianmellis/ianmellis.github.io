@@ -1,6 +1,6 @@
 ---
 layout: pdf
-title: "Allele-specific RNA imaging shows that allelic imbalances can arise in tissues through transcriptional bursting (Preprint)"
+title: "Allele-specific RNA imaging shows that allelic imbalances can arise in tissues through transcriptional bursting (in press, PLoS Genetics 2019)"
 firstauths: Symmons, O., Chang, M.,
 lastauths: Kalish, J.M., Marisa S. Bartolomei, M., Raj, A.
 refinfo: "bioRxiv 386359 (2018). doi:10.1101/386359"
