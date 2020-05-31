@@ -1,9 +1,9 @@
 ---
 layout: pdf
-title: "Allele-specific RNA imaging shows that allelic imbalances can arise in tissues through transcriptional bursting (in press, PLoS Genetics 2019)"
+title: "Allele-specific RNA imaging shows that allelic imbalances can arise in tissues through transcriptional bursting"
 firstauths: Symmons, O., Chang, M.,
-lastauths: Kalish, J.M., Marisa S. Bartolomei, M., Raj, A.
-refinfo: "bioRxiv 386359 (2018). doi:10.1101/386359"
+lastauths: Kalish, J.M., Park, J., Susztak, K., Bartolomei, M.S., Raj, A.
+refinfo: "PLoS Genetics 15(1): e1007874 (2019). doi:10.1371/journal.pgen.1007874"
 blurb: Development of SNP FISH for sectioned fixed tissue samples and analysis of putative random monoallelic expression with modeling of transcriptional bursts
 tags:
 - FISH
