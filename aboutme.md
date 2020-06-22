@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-title: About
+title: About | Ian Mellis
 ---
 <p align="center">
 <img src="{{ site.baseurl }}static/img/{{ site.avatar }}" style="width:150px;" />

@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-title: Research Interests
+title: Research Interests | Ian Mellis
 ---
 
 # <center> Research Interests </center>
