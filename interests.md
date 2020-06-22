@@ -28,7 +28,7 @@ I am interested in designing protocols for reprogramming and transdifferentiatio
 <img src="{{ site.baseurl }}static/img/inofish_forsite.jpg" style="width:600px;" />
 </p>
 
-In addition to the experimental and analytical frameworks above I am also interested in developing accessible new experimental methods to answer challenging research questions, especially related to gene regulation. In the first part of my PhD thesis we invented a single-molecule RNA FISH-based tool, [inoFISH](inofish.html), for visualizing RNA editing with sub-single-cell resolution. I further contributed to the development of other RNA FISH-based methods for [amplifying RNA FISH](clampfish.html) signal and for visualizing [allelic expression](tissuesnpfishbursting.html) in mouse tissues. Prior to graduate school I also contributed to the design and implementation of a [conditional knockout](coin.html) module for genome engineering.
+In addition to the experimental and analytical frameworks above I am also interested in developing accessible new experimental methods to answer challenging research questions, especially related to gene regulation. In the first part of my PhD thesis we invented a single-molecule RNA FISH-based tool, [inoFISH](inoFISH.html), for visualizing RNA editing with sub-single-cell resolution. I further contributed to the development of other RNA FISH-based methods for [amplifying RNA FISH](clampFISH.html) signal and for visualizing [allelic expression](TissueSNPFISHbursting.html) in mouse tissues. Prior to graduate school I also contributed to the design and implementation of a [conditional knockout](COIN.html) module for genome engineering.
 
 
 <!-- ## Future Directions -->
