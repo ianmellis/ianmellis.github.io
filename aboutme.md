@@ -9,7 +9,7 @@ title: About | Ian Mellis
 ## <center> Welcome to my personal website!</center>
 
 
-I am a research-track Clinical Pathology resident and postdoc at [Columbia](https://www.pathology.columbia.edu/) as of July 2021. Starting in 2023 I will work with [David Ho](https://www.adarc.cuimc.columbia.edu/research/research-labs/ho-lab) in the Aaron Diamond AIDS Research Center. Independently, I am also collaborating with [Yogesh Goyal (Northwestern)](https://www.goyallab.org/) on a project about gene regulatory networks.
+I am a research-track Clinical Pathology resident and postdoc at [Columbia](https://www.pathology.columbia.edu/) as of July 2021. As of early 2023 I am working with [David Ho](https://www.adarc.cuimc.columbia.edu/research/research-labs/ho-lab) in the Aaron Diamond AIDS Research Center. Independently, I am also collaborating with [Yogesh Goyal (Northwestern)](https://www.goyallab.org/) on a project about gene regulatory networks.
 
 I graduated from the MD/PhD program at the [University of Pennsylvania](https://www.med.upenn.edu/mstp/) in 2021. At Penn, I did my PhD in Genomics and Computational Biology, advised by [Arjun Raj](https://rajlab.seas.upenn.edu) (supported by an [F30 NRSA](https://projectreporter.nih.gov/project_info_details.cfm?aid=9691528&icde=50544554&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)). I also worked with [Daniel Herman](https://www.med.upenn.edu/hermanlab/) in the Hospital of the University of Pennsylvania Pathology Department, using clinical informatics to track SARS-CoV-2 test results in the Philadelphia area. For information about my recent work, please see [publications](publications.html). 
 
