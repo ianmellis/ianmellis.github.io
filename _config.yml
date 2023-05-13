@@ -25,8 +25,8 @@ googlescholar: 9IELUHoAAAAJ
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
-google_analytics: UA-131025114-1
-
+#google_analytics: UA-131025114-1
+google_analytics: G-Q8RRZDV1FN
 
 # needed for travis-ci build
 exclude: [vendor]
