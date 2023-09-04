@@ -2,7 +2,7 @@
 layout: pdf
 title: "Cell type determination for cardiac differentiation occurs soon after seeding of human induced pluripotent stem cells"
 authors: Jiang, C.L., Goyal, Y., Jain, N., Wang, Q., Truitt, R.E., Cote, A.J., Emert, B., <strong> Mellis, I.A.</a></strong>, Kiani, K., Yang, W., Jain, R.#, Raj, A.#
-refinfo: "Genome Biol. 23, 90 (2022)"
+refinfo: "<i>Genome Biology</i> 23, no. 1 (2022): 1-29."
 blurb: iPSC-to-differentiated cell state tracing
 tags:
 - iPSC
