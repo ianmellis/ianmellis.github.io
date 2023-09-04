@@ -1,7 +1,7 @@
 ---
 layout: pdf
 title: "SARS-CoV-2 Neutralizing Antibodies After Bivalent vs. Monovalent Booster"
-authors: Wang, Q., Bowen, A.D., Tam, A.R., Valdez, R., Stoneman, E., <strong> Mellis, I.A.</a></strong>, Gordon, A., Liu, L. and Ho, D.D.
+authors: Wang, Q., Bowen, A.D., Tam, A.R., Valdez, R., Stoneman, E., <strong> Mellis, I.A.</a></strong>, Gordon, A.#, Liu, L.#, Ho, D.D.#
 refinfo: "The Lancet Infectious Diseases 23.5 (2023): 527-528."
 blurb: bivalent vs monovalent booster after 3 months
 tags:
