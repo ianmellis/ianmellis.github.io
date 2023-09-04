@@ -2,7 +2,7 @@
 layout: pdf
 title: "ClampFISH detects individual nucleic acid molecules using click chemistry–based amplification"
 authors: Rouhanifard, S.H., <strong> Mellis, I.A.</a></strong>, Dunagin, M., Bayatpour, S., Jiang, C.L., Dardani, I., Symmons, O., Emert, B., Torre, E., Cote, A., Sullivan, A., Stamatoyannopoulos. J.A., Raj, A.
-refinfo: "Nat. Biotechnol. (2018). doi:10.1038/nbt.4286."
+refinfo: "<i>Nature Biotechnology</i> 37, no. 1 (2019): 84-89."
 blurb: Development of the clampFISH technique for detection of nucleic acids
 tags:
 - FISH
