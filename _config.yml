@@ -5,7 +5,10 @@ rdiscount:
   extensions: [smart]
 permalink: /:title.html
 paginate: 5
-plugins: [jekyll-paginate]
+remote_theme: jekyll/minima
+plugins: 
+  - jekyll-paginate
+  - jekyll-remote-theme
 port: 3000
 safe: true
 
