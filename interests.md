@@ -5,12 +5,16 @@ title: Research Interests | Ian Mellis
 
 # <center> Research Interests </center>
 
+## <center> Host-pathogen interactions </center> 
+
+In my postdoc with Dr. David Ho, I am pursuing several projects related to adaptive immune responses to viruses. In particular, I am interested in 1) better understanding neutralizing antibody responses to a variety of viruses; and 2) developing treatments (or vaccines) for viral infections using strategies informed by models of antigenic evolution and viral gene regulation. We have published or posted a number of studies about [SARS-CoV-2 evolution](BA_2_75.html), [COVID-19](XBB_MV.html) [vaccines](bivalent3mos.html), and associated adaptive immune responses, with more on the way. Currently, I am also exploring new projects on topics including correlates of protection from SARS-CoV-2, latent HIV reservoirs, and treatments for other viruses of pandemic potential.
+
 ## <center> Systems biology of cellular identity </center> 
 
 <p align="center">
 <img src="{{ site.baseurl }}static/img/pillars-springs_forsite.jpg" style="width:400px;" />
 </p>
-I am interested in developing quantitative models for thinking about how and why cells have cellular identity (a.k.a. cell type) at a molecular level and from an evolutionary perspective. In my thesis we identified gene regulatory trends associated with cellular identity maintenance. Relatedly, I am interested in designing protocols for reprogramming and transdifferentiation (directing cells to progenitor or other differentiated types, respectively) based on new models of the molecular and genetic basis of different cellular identities. We made progress toward this goal for more efficient fibroblast-to-iPSC reprogramming by suppressing genes that may be needed to maintain fibroblast identity. For more information, please see the [paper](p3.html). Currently, I am independently pursuing analytical projects about 1) how cells make tradeoffs in single-cell gene expression patterns to balance regulation of their diverse functions, 2) how to visualize cellular identity landscapes based on models of transcription factor-regulated cellular identity, and 3) the evolution of gene regulatory networks. 
+I am interested in developing quantitative models for thinking about how and why cells have cellular identity (a.k.a. cell type) at a molecular level and from an evolutionary perspective. In my thesis we identified gene regulatory trends associated with cellular identity maintenance. Relatedly, I am interested in designing protocols for reprogramming and transdifferentiation (directing cells to progenitor or other differentiated types, respectively) based on new models of the molecular and genetic basis of different cellular identities. We made progress toward this goal for more efficient fibroblast-to-iPSC reprogramming by suppressing genes that may be needed to maintain fibroblast identity. For more information, please see the [paper](p3.html). Currently, I am independently pursuing analytical projects about 1) how cells make tradeoffs in single-cell gene expression patterns to balance regulation of their diverse functions, 2) how to visualize cellular identity landscapes based on models of transcription factor-regulated cellular identity, and 3) the evolution of [gene regulatory networks](GRN_NITC.html). 
 
 <!-- ## <center> Manipulation of cellular identity </center> 
 
@@ -28,8 +32,6 @@ I am interested in developing quantitative models for thinking about how and why
 
 In addition to the experimental and analytical frameworks above I am also interested in developing accessible new experimental methods to answer challenging research questions, especially related to gene regulation. In the first part of my PhD thesis we invented a single-molecule RNA FISH-based tool, [inoFISH](inoFISH.html), for visualizing RNA editing with sub-single-cell resolution. I further contributed to the development of other RNA FISH-based methods for [amplifying RNA FISH](clampFISH.html) signal and for visualizing [allelic expression](TissueSNPFISHbursting.html) in mouse tissues. Prior to graduate school I also contributed to the design and implementation of a [conditional knockout](COIN.html) module for genome engineering.
 
-## <center> Host-pathogen interactions </center> 
 
-In my postdoc with Dr. David Ho, I am starting to pursue projects related to virus evolution and the host immune pressures shaping it. In particular, I am interested in better understanding neutralizing antibodies and their effects on a wide variety of viruses. We recently posted a study on a comparison between neutralizing antibody titers several months after [bivalent vs. monovalent](bivalent_3mos.html) SARS-CoV-2 booster. We also plan to post a study on the evolution of recent Omicron sublineages.
 <!-- ## Future Directions -->
 
