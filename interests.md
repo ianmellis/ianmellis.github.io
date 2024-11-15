@@ -7,6 +7,10 @@ title: Research Interests | Ian Mellis
 
 ## <center> Host-pathogen interactions </center> 
 
+<p align="center">
+<img src="{{ site.baseurl }}static/img/host-pathogen_img.png" style="width:600px;" />
+</p>
+
 In my postdoc with Dr. David Ho, I am pursuing several projects related to adaptive immune responses to viruses. In particular, I am interested in 1) better understanding neutralizing antibody responses to a variety of viruses; and 2) developing treatments (or vaccines) for viral infections using strategies informed by models of antigenic evolution and viral gene regulation. We have published or posted a number of studies about [SARS-CoV-2 evolution](BA_2_75.html), [COVID-19](XBB_MV.html) [vaccines](bivalent3mos.html), and associated adaptive immune responses, with more on the way. Currently, I am also exploring new projects on topics including correlates of protection from SARS-CoV-2, latent HIV reservoirs, and treatments for other viruses of pandemic potential. Ultimately, I hope to apply insights from these studies to the field of gene and cell therapies, as well.
 
 <!-- ## <center> Manipulation of cellular identity </center> 
