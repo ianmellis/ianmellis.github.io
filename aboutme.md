@@ -17,4 +17,4 @@ Prior to graduate school I majored in Mathematics and a self-designed Molecular 
 
 Outside of science and medicine I enjoy cooking, learning languages, traveling, and going on very long walks around cities and in the woods.
 
-Please feel free to contact me by email at [ian.mellis[at]gmail](mailto:ian.mellis@gmail.com) or on Twitter [@ian_mellis](https://twitter.com/ian_mellis).
+Please feel free to contact me by email at [ian.mellis[at]gmail](mailto:im2613@cumc.columbia.edu) or on Bluesky [@ianmellis.bsky.social](https://bsky.app/profile/ianmellis.bsky.social).
